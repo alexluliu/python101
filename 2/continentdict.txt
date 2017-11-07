@@ -1,0 +1,1 @@
+{'Canada': 'NA', 'BRAZIL': 'SA', 'Korea': 'AS', 'France': 'EU', 'China': 'AS', 'Russia': 'EU'}

@@ -1,0 +1,4 @@
+You're getting ready to start a new company. What language should you choose to build it?
+Or to phrase the same question a different way: You are looking for a job, which language should you learn?
+You might guess from the title of this post that I think the right answer is Python. But why?
+The answer is that Python is powerful. But what does that mean, exactly? What makes for power in a programming language?
