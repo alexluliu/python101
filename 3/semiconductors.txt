@@ -1,0 +1,17 @@
+Company	Revenue	Quarter	Market Price
+Intel	12	Q1	133
+Samsung	20	Q1	125
+TSMC	14	Q1	
+Toshiba	13	Q1	150
+Intel	7	Q2	123
+Samsung	6	Q2	148
+TSMC	9	Q2	
+Toshiba	13	Q2	142
+Intel	14	Q3	121
+Samsung	11	Q3	129
+TSMC	12	Q3	
+Toshiba	10	Q3	113
+Intel	16	Q4	141
+Samsung	14	Q4	122
+TSMC	15	Q4	
+Toshiba	11	Q4	140

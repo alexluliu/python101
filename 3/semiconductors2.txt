@@ -1,0 +1,5 @@
+Company	Revenue	Quarter	Market Price
+AMD	3	Q1	41
+AMD	3	Q1	40
+AMD	4	Q1	32
+AMD	2	Q1	39
